@@ -1,26 +1,7 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   16:57:26 03/06/2023
-// Design Name:   code
-// Module Name:   C:/Users/abhis/Documents/Xilinx Project/Vending_Machine/testbench.v
-// Project Name:  Vending_Machine
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: code
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
+
 
 module testbench;
 
